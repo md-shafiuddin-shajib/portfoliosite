@@ -4,17 +4,20 @@ import { Github } from 'lucide-react';
 const projects = [
   {
     title: 'Tour Booking Management System',
-    description: 'Built an industry-ready platform using React.js, Node.js, Express.js, and MongoDB. It offers seamless booking, customer management, and reservation functionalities.',
+    description:
+      'Built an industry-ready platform using React.js, Node.js, Express.js, and MongoDB. It offers seamless booking, customer management, and reservation functionalities.',
     github: 'https://github.com/md-shafiuddin-shajib/travelbooking.git',
   },
   {
     title: 'Food Delivery Website',
-    description: 'Designed a dynamic platform with React.js, Redux, and Tailwind CSS for browsing menus, managing orders, and tracking deliveries.',
+    description:
+      'Designed a dynamic platform with React.js, Redux, and Tailwind CSS for browsing menus, managing orders, and tracking deliveries.',
     github: 'https://github.com/md-shafiuddin-shajib/Food-Delivery.git',
   },
   {
     title: 'E-Commerce Website',
-    description: 'Developed a feature-rich e-commerce platform using React.js, Redux, and Tailwind CSS for product listings, shopping cart, and checkout processes.',
+    description:
+      'Developed a feature-rich e-commerce platform using React.js, Redux, and Tailwind CSS for product listings, shopping cart, and checkout processes.',
     github: 'https://github.com/md-shafiuddin-shajib/Ecommer-react.git',
   },
 ];
@@ -36,7 +39,7 @@ const Projects = () => {
                 <h3 className="text-xl font-semibold text-cyan-700 mb-3">
                   {project.title}
                 </h3>
-                <p className="text-gray-600 mb-4">
+                <p className="text-gray-600 mb-4 text-justify leading-relaxed">
                   {project.description}
                 </p>
                 <a

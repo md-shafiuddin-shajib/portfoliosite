@@ -30,7 +30,7 @@ const Home = () => {
           <div className="flex-1 flex justify-center md:justify-end">
             <div className="relative w-64 h-64 md:w-80 md:h-80">
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQEyOnVO9ibmow/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712431854365?e=1741824000&v=beta&t=kpDiWYAoh1RXUQvZG_MF6OaGwjz_YBnZcgGwflrBtQ4"
+                src="https://media.licdn.com/dms/image/v2/D5603AQEdq6KCGDS9NQ/profile-displayphoto-shrink_400_400/B56ZRXRachHoAk-/0/1736630971078?e=1741824000&v=beta&t=wAl8-XmxmZQEHHljv6xeXTa-12ZDO_pZ2EP1JGKqBZY"
                 alt="Md Shafiuddin Shajib"
                 className="rounded-full shadow-xl animate-fadeIn object-cover"
               />
