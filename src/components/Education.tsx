@@ -6,7 +6,7 @@ const educationData = [
     field: "Computer Science and Engineering",
     institution: "International University of Business Agriculture and Technology",
     period: "Jan 2021 - Dec 2024",
-    grade: "CGPA: 3.73/4.00",
+    grade: "CGPA: 3.70/4.00",
   },
   {
     degree: "High School Certificate (HSC)",
