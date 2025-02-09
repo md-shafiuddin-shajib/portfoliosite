@@ -5,7 +5,7 @@ const educationData = [
     degree: "Bachelor's Degree",
     field: "Computer Science and Engineering",
     institution: "International University of Business Agriculture and Technology",
-    period: "Jan 2021 - Dec 2024",
+    period: "2021 - 2025",
     grade: "CGPA: 3.70/4.00",
   },
   {
