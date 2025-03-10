@@ -10,7 +10,7 @@ const Home = () => {
               Md Shafiuddin Shajib
             </h1>
             <h2 className="text-xl md:text-2xl text-cyan-600 mb-6 animate-slideUp">
-              Software Engineer | React Developer | JavaScript | Web Developer
+              Software Engineer | React Developer | JavaScript | WordPress| Web Developer
             </h2>
             <div className="space-x-4">
               <a
