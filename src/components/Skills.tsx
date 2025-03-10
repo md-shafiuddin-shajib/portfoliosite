@@ -3,7 +3,7 @@ import React from 'react';
 const skillCategories = [
   {
     title: 'Programming and Development',
-    skills: ['JavaScript', 'React.js', 'Redux', 'Tailwind CSS', 'MySQL', 'MongoDB', 'C', 'C++', 'Java'],
+    skills: ['JavaScript', 'React.js', 'Redux', 'Tailwind CSS', 'MySQL', 'MongoDB', 'WordPress', 'C', 'C++', 'Java'],
   },
   {
     title: 'Software Engineering',
